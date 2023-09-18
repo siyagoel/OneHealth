@@ -36,6 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Technology Stack](#technology-stack)
+- [Team and Responsibilities](#team-and-responsibilities)
 - [Development Timeline](#development-timeline)
 - [Computer Vision Repositories](#computer-vision-repositories)
 
@@ -92,6 +93,13 @@ The project utilizes a diverse technology stack:
   - Canva
   - Figma
   - Google Slides
+
+## Team and Responsibilities
+
+- John: Figma Mockup, Frontend Application of Mobile Site, Pitch Deck
+- Siya: Predictive Models, Computer Vision, Frontend, Pitch Deck
+- Ben: Computer Vision, Predictive Models, Vector Database, Github & Git Reposetory Setup
+- Auston: Backend (API), Computer Vision, Messaging Integration
 
 ## Development Timeline
 
